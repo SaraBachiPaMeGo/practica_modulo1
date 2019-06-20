@@ -297,6 +297,7 @@ div.green h2 {
 /*VIAJES*/
 
 .flex{
+    border: none;
     display: flex;
     justify-content:space-between;
     flex-wrap: nowrap;
@@ -639,6 +640,7 @@ address{
     }
 
     .flex {
+        border: none;
         display: flex;
         justify-content:space-between;
         flex-wrap: nowrap;
